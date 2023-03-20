@@ -1,0 +1,4 @@
+List of universities in UK:
+state_province     domain      country                       web pages                                  name               alpha two code
+null           [Ljava.lang.String;@5c86dbc5         UK     [Ljava.lang.String;@461ad730     HULT Business School     UK
+null           [Ljava.lang.String;@4ee203eb         UK     [Ljava.lang.String;@1a5a4e19     HULT Business School     UK
