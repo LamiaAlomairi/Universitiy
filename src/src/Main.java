@@ -25,7 +25,8 @@ public class Main {
 //  **********************       Main Method      ****************************************************************************    
 //  **************************************************************************************************************************    
     public static void main(String[] args) {
-        initial_database();
+    	SelectData.loop = true;
+        //initial_database();
         createTable();
     	Array();
         while(project) {
@@ -51,7 +52,6 @@ public class Main {
 	 			    	System.out.println("|   Invalid number, please enter a valid number  |");
 	 			    	System.out.println("|________________________________________________|");
 	 			    }
-                //http://universities.hipolabs.com/search?country=Oman
             }
             catch(Exception e) {
                 e.printStackTrace();
@@ -88,8 +88,10 @@ public class Main {
 //  **********************      Create Table      ****************************************************************************    
 //  **************************************************************************************************************************    
     static void createTable() {
-    	String url = "jdbc:sqlserver://localhost:1433;" + "databaseName = " + db_name +";" + "encrypt = true;" + "trustServerCertificate = true";
-    	
+    	String url = "jdbc:sqlserver://localhost:1433;" + "databaseName = myDB"/* + db_name*/ +";" + "encrypt = true;" + "trustServerCertificate = true";
+    	String user = "sa";
+		String pass = "root";
+	    Connection con = null;
         try {
         	Driver driver = (Driver) Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver").newInstance();
             DriverManager.registerDriver(driver);
@@ -99,15 +101,15 @@ public class Main {
 
             String sql_university= "IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'University') "
                     + "CREATE TABLE University(\r\n"
-                    + "    state_province VARCHAR(20) PRIMARY KEY,\r\n"
-                    + "    domain VARCHAR(20) ARRAY[10],\r\n"
+                    + "    state_province VARCHAR(20),\r\n"
+                    + "    domain VARCHAR(200),\r\n"
                     + "    country VARCHAR(20),\r\n"
-                    + "    web_pages VARCHAR(20) ARRAY[10],\r\n"
+                    + "    web_pages VARCHAR(500),\r\n"
                     + "    name VARCHAR(20), \r\n"
                     + "    alpha_two_code CHAR(2) \r\n"
                     + ");";
             st.executeUpdate(sql_university);
-            con.close();
+            //con.close();
         }
 	        catch (Exception ex) {
 	            System.out.println("Something Error Happened -_- ");

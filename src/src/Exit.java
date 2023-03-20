@@ -1,5 +1,5 @@
 package src;
-//import java.sql.*;
+import java.sql.*;
 
 public class Exit extends MenuItem{
 	Exit(){
@@ -10,7 +10,7 @@ public class Exit extends MenuItem{
 		System.out.println("Program is stoped ");
 		System.out.println("Bye o_- ");
 		
-		/*String url = "jdbc:sqlserver://localhost:1433;" + "databaseName = " + Main.db_name +";" + "encrypt = true;" + "trustServerCertificate = true";
+		String url = "jdbc:sqlserver://localhost:1433;" + "databaseName = myDB" /*+ Main.db_name */+";" + "encrypt = true;" + "trustServerCertificate = true";
     	String user = "sa";
         String pass = "root";
         Connection con = null;
@@ -19,12 +19,14 @@ public class Exit extends MenuItem{
             DriverManager.registerDriver(driver);
             con = DriverManager.getConnection(url, user, pass);
             Statement st = con.createStatement();
-            String sql_Delete = "DROP DATABASE University;";
-            st.executeUpdate(sql_Delete);
-            String sql_DeleteDB = "DROP DATABASE "+Main.db_name+";";
+            //String sql_AlterDB = "ALTER DATABASE "+Main.db_name+" SET SINGLE_USER WITH ROLLBACK IMMEDIATE;";
+            //st.executeUpdate(sql_AlterDB);
+            //String sql_DeleteDB = "DROP DATABASE "+Main.db_name+";";
+            String sql_DeleteDB = "DROP TABLE University;";
             st.executeUpdate(sql_DeleteDB);
         } catch (Exception ex) {
             System.err.println(ex);
-        }*/
+        }
+        
 	}
 }

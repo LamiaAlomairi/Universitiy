@@ -16,9 +16,9 @@ public class RemoveTable extends MenuItem{
             DriverManager.registerDriver(driver);
             con = DriverManager.getConnection(url, user, pass);
             Statement st = con.createStatement();
-            String sql_Delete = "DROP DATABASE University;";
+            String sql_Delete = "DROP TABLE University;";
             st.executeUpdate(sql_Delete);
-            System.out.println("Table is droped ^-^ ");
+            System.out.println("Table is drop ");
         } catch (Exception ex) {
             System.err.println(ex);
         }
