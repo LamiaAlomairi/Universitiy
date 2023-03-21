@@ -101,11 +101,11 @@ public class Main {
 
             String sql_university= "IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'University') "
                     + "CREATE TABLE University(\r\n"
-                    + "    state_province VARCHAR(20),\r\n"
-                    + "    domain VARCHAR(200),\r\n"
-                    + "    country VARCHAR(20),\r\n"
+                    + "    state_province VARCHAR(500),\r\n"
+                    + "    domain VARCHAR(500),\r\n"
+                    + "    country VARCHAR(200),\r\n"
                     + "    web_pages VARCHAR(500),\r\n"
-                    + "    name VARCHAR(20), \r\n"
+                    + "    name VARCHAR(200), \r\n"
                     + "    alpha_two_code CHAR(2) \r\n"
                     + ");";
             st.executeUpdate(sql_university);

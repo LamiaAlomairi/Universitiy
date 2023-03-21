@@ -1,4 +1,558 @@
-List of universities in UK:
+List of universities in France:
 state_province     domain      country                       web pages                                  name               alpha two code
-null           [hult.edu]         UK     [https://www.hult.edu/campuses/london/postgraduate/]     HULT Business School     UK
-null           [hult.edu]         UK     [https://www.hult.edu/campuses/london/postgraduate/]     HULT Business School     UK
+null           [ac-paris.fr]         France     [https://www.ac-paris.fr/]     Académie de Paris     FR
+null           [ac-aix-marseille.fr]         France     [https://www.ac-aix-marseille.fr/]     Académie d'Aix-Marseille     FR
+null           [student.42.fr]         France     [http://www.42.fr/]     42 FR     FR
+null           [aea.asso.fr]         France     [http://www.aea.asso.fr/]     Ecole de l'Air     FR
+null           [agroparistech.fr]         France     [http://www.agroparistech.fr/]     AgroParisTech     FR
+null           [agro.roazhon.inra.fr]         France     [http://agro.roazhon.inra.fr/]     Ecole Nationale Supérieure d'Agronomie de Rennes     FR
+null           [agro.roazhon.inra.fr]         France     [http://agro.roazhon.inra.fr/etab/insfa/accueil.htm]     Institut National Supérieur de Formation Agro-Alimentaire     FR
+null           [agrosupdijon.fr]         France     [http://www.agrosupdijon.fr/]     AgroSup Dijon     FR
+null           [ags.edu]         France     [http://www.ags.edu/]     American Graduate School in Paris     FR
+null           [aup.fr]         France     [http://www.aup.fr/]     American University of Paris     FR
+null           [bip.lon.ac.uk]         France     [http://www.bip.lon.ac.uk/]     British Institute in Paris, University of London     FR
+null           [ceram.edu]         France     [http://www.ceram.edu/]     Ecole Supérieure de Commerce de Sophia Antipolis     FR
+null           [cesi.fr]         France     [http://www.cesi.fr/]     Centre d'Etudes Supérieures Industrielles Paris     FR
+null           [cfpj.com]         France     [http://www.cfpj.com/]     Centre de Formation et de Perfectionnement des Journalistes     FR
+null           [cnam.fr]         France     [http://www.cnam.fr/]     Conservatoire National des Arts et Métiers     FR
+null           [cnearc.fr]         France     [http://www.cnearc.fr/]     Centre National d'Etudes Agronomiques des Régions Chaudes     FR
+null           [cpe.fr]         France     [http://www.cpe.fr/]     Ecole Supérieure de Chimie Physique Electronique de Lyon     FR
+null           [cribx1.u-bordeaux.fr]         France     [http://www.cribx1.u-bordeaux.fr/]     Université Bordeaux I     FR
+null           [cust.univ-bpclermont.fr]         France     [http://cust.univ-bpclermont.fr/]     Institut des Sciences de l'Ingénieur de Clermont-Ferrand     FR
+null           [dauphine.fr]         France     [http://www.dauphine.fr/]     Université Paris-Dauphine (Paris IX)     FR
+null           [devinci.fr]         France     [http://www.devinci.fr/]     Ecole Superieur d'Ingenieurs Leonard de Vinci     FR
+null           [e3i.univ-tours.fr]         France     [http://www.e3i.univ-tours.fr/]     Ecole d'Ingénieurs en Informatique pour l'Industrie     FR
+null           [eap.fr]         France     [http://www.eap.fr/]     Ecole Européen des Affaires     FR
+null           [ebs-paris.com]         France     [http://www.ebs-paris.com/]     European Business School     FR
+null           [ecam.fr]         France     [http://www.ecam.fr/]     Ecole Catholique d'Arts & Metiers     FR
+null           [ece.fr]         France     [http://www.ece.fr/]     Ecole Centrale d'Electronique - ECE     FR
+null           [imt-atlantique.net]         France     [https://www.imt-atlantique.fr/]     IMT Atlantique     FR
+null           [ec-lille.fr]         France     [http://www.ec-lille.fr/]     Ecole Centrale de Lille     FR
+null           [ec-lyon.fr]         France     [http://www.ec-lyon.fr/]     Ecole Centrale de Lyon     FR
+null           [ec-nantes.fr]         France     [http://www.ec-nantes.fr/]     Ecole Centrale de Nantes     FR
+null           [centrale-marseille.fr]         France     [https://www.centrale-marseille.fr/]     Ecole Centrale de Marseille     FR
+null           [ecoles-idrac.com]         France     [http://www.ecoles-idrac.com/]     IDRAC (Institut de recherche en action commerciale)     FR
+null           [edu.edhec.com]         France     [http://edu.edhec.com/]     Ecole des Hautes Etudes Commerciales du Nord     FR
+null           [eerie.fr]         France     [http://www.eerie.fr/]     Ecole pour les Etudes et la Recherche en Informatique et Electronique     FR
+null           [efpg.inpg.fr]         France     [http://www.efpg.inpg.fr/]     Ecole Française de Papeterie et des Industries Graphiques     FR
+null           [efrei.fr]         France     [http://www.efrei.fr/]     Ecole Française d'Electronique et d'Informatique     FR
+null           [eivp-paris.fr]         France     [http://www.eivp-paris.fr/]     Ecole des Ingénieurs de la Ville de Paris     FR
+null           [emc-campus.com]         France     [http://www.emc-campus.com/]     European Management Center Paris     FR
+null           [em-lyon.com]         France     [http://www.em-lyon.com/]     Ecole Supérieure de Commerce de Lyon     FR
+null           [emse.fr]         France     [http://www.emse.fr/]     Ecole Nationale Supérieure des Mines de St-Etienne     FR
+null           [enac.fr]         France     [http://www.enac.fr/]     Ecole Nationale de l'Aviation Civile     FR
+null           [ena.fr]         France     [http://www.ena.fr/]     Ecole Nationale d'Administration     FR
+null           [enic.fr]         France     [http://www.enic.fr/]     ENIC Telecom Lille 1     FR
+null           [enim.fr]         France     [http://www.enim.fr/]     Ecole Nationale d'Ingénieurs de Metz     FR
+null           [enise.fr]         France     [http://www.enise.fr/]     Ecole Nationale d'Ingénieurs de Saint-Etienne     FR
+null           [enitab.fr]         France     [http://www.enitab.fr/]     Ecole Nationale d'Ingénieurs des Travaux Agricoles de Bordeaux     FR
+null           [enitac.fr]         France     [http://www.enitac.fr/]     Ecole Nationale d'Ingénieurs des Travaux Agricoles de Clermont-Ferrand     FR
+null           [enit.fr]         France     [http://www.enit.fr/]     Ecole Nationale d'Ingénieurs de Tarbes     FR
+null           [enitiaa-nantes.fr]         France     [http://www.enitiaa-nantes.fr/]     Ecole Nationale d'Ingénieurs des Techniques des Industries Agricoles et Alimentaires     FR
+null           [enm.meteo.fr]         France     [http://www.enm.meteo.fr/]     Ecole Nationale de la Météorologie     FR
+null           [enpc.fr]         France     [http://www.enpc.fr/]     Ecole Nationale des Ponts et Chausees     FR
+null           [ens2m.fr]         France     [http://www.ens2m.fr/]     Ecole Nationale Supérieur de Mécaniques et des Microtechniques     FR
+null           [ensae.fr]         France     [http://www.ensae.fr/]     Ecole Nationale de la Statistique et de l'Administration Economique     FR
+null           [ensaia.u-nancy.fr]         France     [http://www.ensaia.u-nancy.fr/]     Ecole Nationale Supérieure d'Agronomie et des Industries Alimentaires     FR
+null           [ensai.fr]         France     [http://www.ensai.fr/]     Ecole Nationale de la Statistique et de l'Analyse de l'information     FR
+null           [ensait.fr]         France     [http://www.ensait.fr/]     Ecole Nationale Supérieure des Arts et Industries Textiles     FR
+null           [ensam.inra.fr]         France     [http://www.ensam.inra.fr/]     Ecole Nationale Supérieure d'Agronomie de Montpellier     FR
+null           [ensat.fr]         France     [http://www.ensat.fr/]     Ecole Nationale Supérieure Agronomique de Toulouse     FR
+null           [ens-cachan.fr]         France     [http://www.ens-cachan.fr/]     Ecole Normale Supérieure de Cachan     FR
+null           [ensccf.univ-bpclermont.fr]         France     [http://ensccf.univ-bpclermont.fr/]     Ecole Nationale Supérieure de Chimie de Clermont-Ferrand     FR
+null           [ensc-lille.fr]         France     [http://www.ensc-lille.fr/]     Ecole Nationale Supérieure de Chimie de Lille     FR
+null           [enscm.fr]         France     [http://www.enscm.fr/]     Ecole Nationale Supérieure de Chimie de Montpellier     FR
+null           [enscmu.univ-mulhouse.fr]         France     [http://www.enscmu.univ-mulhouse.fr/]     Ecole Nationale Supérieure de Chimie de Mulhouse     FR
+null           [enscpb.u-bordeaux.fr]         France     [http://www.enscpb.u-bordeaux.fr/]     Ecole Nationale Supérieure de Chimie et de Physique de Bordeaux     FR
+null           [enscp.jussieu.fr]         France     [http://www.enscp.jussieu.fr/]     Ecole Nationale Supérieure de Chimie de Paris     FR
+null           [ensc-rennes.fr]         France     [http://www.ensc-rennes.fr/]     Ecole Nationale Supérieure de Chimie de Rennes     FR
+null           [ensea.fr]         France     [http://www.ensea.fr/]     Ecole Nationale Supérieure de l'Electronique et de ses Applications     FR
+null           [enseeiht.fr]         France     [http://www.enseeiht.fr/]     Ecole Nationale Supérieure d'Electronique, d'Electrotechnique, d'Informatique et d'Hydraulique de Toulouse     FR
+null           [enseeiht.fr]         France     [http://www.enseeiht.fr/]     Ecole Nationale Supérieure en Electrotechnique, Electronique, Informatique et Hydraulique de Toulouse     FR
+null           [ensem.u-nancy.fr]         France     [http://www.ensem.u-nancy.fr/]     Ecole Nationale Supérieure Electricité et Mécanique     FR
+null           [enserb.u-bordeaux.fr]         France     [http://www.enserb.u-bordeaux.fr/]     Ecole Nationale Supérieure d'Electronique et de Radioelectricite de Bordeaux     FR
+null           [ens-fcl.fr]         France     [http://www.ens-fcl.fr/]     Ecole Normale Supérieure de Fontenay-Saint Cloud     FR
+null           [ens.fr]         France     [http://www.ens.fr/]     Ecole Normale Supérieure de Paris     FR
+null           [ensg.ign.fr]         France     [http://www.ensg.ign.fr/]     Ecole Nationale des Sciences Géographiques     FR
+null           [ensg.u-nancy.fr]         France     [http://www.ensg.u-nancy.fr/]     Ecole Nationale Supérieur de Géologie de Nancy     FR
+null           [ensica.fr]         France     [http://www.ensica.fr/]     Ecole Nationale Supérieur d'Ingénieurs de Constructions Aéronautique     FR
+null           [ensica.fr]         France     [http://www.ensica.fr/]     École Nationale Supérieure d'Ingénieurs de Constructions Aéronautiques     FR
+null           [ensic.u-nancy.fr]         France     [http://www.ensic.u-nancy.fr/]     Ecole Nationale Supérieure des Industries Chimiques de Nancy     FR
+null           [ensieta.fr]         France     [http://www.ensieta.fr/]     Ecole Nationale Supérieur des Ingénieur des Etudes et Techniques d'Armement     FR
+null           [ensitm.fr]         France     [http://www.ensitm.fr/]     Ecole Nationale Supérieure des Industries Textiles de Mulhouse     FR
+null           [ens-lyon.fr]         France     [http://www.ens-lyon.fr/]     Ecole Normale Supérieure de Lyon     FR
+null           [ensma.fr]         France     [http://www.ensma.fr/]     Ecole Nationale Supérieur de Mécanique et d'Aéronautique     FR
+null           [ensm-ales.fr, mines-ales.fr, mines-ales.org]         France     [https://www.mines-ales.fr/]     Ecole Nationale Supérieure des Mines d'Alès     FR
+null           [ensm-douai.fr]         France     [http://www.ensm-douai.fr/]     Ecole Nationale Supérieure des Mines de Douai     FR
+null           [ensmp.fr]         France     [http://www.ensmp.fr/]     Ecole Nationale Supérieure des Mines de Paris     FR
+null           [enspm.u-3mrs.fr]         France     [http://www.enspm.u-3mrs.fr/]     Ecole Nationale Supérieure de Physique de Marseille     FR
+null           [ensta.fr]         France     [http://www.ensta.fr/]     Ecole Nationale Supérieure de Techniques Avancées     FR
+null           [enst-bretagne.fr]         France     [http://www.enst-bretagne.fr/]     Ecole Nationale Supérieure des Telecommunications de Bretagne     FR
+null           [enst.fr]         France     [http://www.enst.fr/]     Ecole Nationale Supérieure des Telecommunications de Paris     FR
+null           [entpe.fr]         France     [http://www.entpe.fr/]     Ecole Nationale des Travaux Publics de l'Etat     FR
+null           [envt.fr]         France     [http://www.envt.fr/]     Ecole Nationale Vétérinaire de Toulouse     FR
+null           [epf.fr]         France     [http://www.epf.fr/]     EPF Ecole d'Ingénieurs     FR
+null           [esa-purpan.fr]         France     [http://www.esa-purpan.fr/]     Ecole Supérieure d'Agriculture de Purpan     FR
+null           [esc-bordeaux.fr]         France     [http://www.esc-bordeaux.fr/]     Ecole Supérieure de Commerce de Bordeaux     FR
+null           [esc-brest.fr]         France     [http://www.esc-brest.fr/]     Ecole Supérieure de Commerce de Brest     FR
+null           [esc-clermont.fr]         France     [http://www.esc-clermont.fr/]     Ecole Supérieure de Commerce de Clermont-Ferrand     FR
+null           [escdijon.com]         France     [http://www.escdijon.com/]     Ecole Supérieure de Commerce de Dijon     FR
+null           [escem.fr]         France     [http://www.escem.fr/]     Ecole Supérieure de Commerce et Management     FR
+null           [esc-lille.fr]         France     [http://www.esc-lille.fr/]     Ecole Supérieure de Commerce de Lille     FR
+null           [esc-marseille.fr]         France     [http://www.esc-marseille.fr/]     Ecole Supérieure de Commerce de Marseille-Provence     FR
+null           [escna.fr]         France     [http://www.escna.fr/]     Ecole Supérieure de Commerce de Nantes-Atlantique     FR
+null           [esc-normandie.fr]         France     [http://www.esc-normandie.fr/]     Ecole Supérieure de Commerce de Le Havre/Caen     FR
+null           [escom.fr]         France     [http://www.escom.fr/]     Ecole Supérieure de Chimie Organique et Minérale     FR
+null           [esc-pau.fr]         France     [http://www.esc-pau.fr/]     Ecole Supérieure de Commerce de Pau     FR
+null           [escp.fr, escp.eu, edu.escp.eu]         France     [http://www.escp.fr/, https://escp.eu/]     Ecole Supérieure de Commerce de Paris     FR
+null           [esc-reims.edu]         France     [http://www.esc-reims.edu/]     Ecole Supérieure de Commerce de Reims     FR
+null           [esc-rouen.fr]         France     [http://www.esc-rouen.fr/]     Ecole Supérieure de Commerce de Rouen     FR
+null           [esc-toulouse.fr]         France     [http://www.esc-toulouse.fr/]     Ecole Supérieure de Commerce de Toulouse     FR
+null           [eseo.fr]         France     [http://www.eseo.fr/]     Ecole Supérieure d'Electronique de l'Ouest     FR
+null           [esiae.fr]         France     [http://www.esiae.fr/]     Ecole Supérieure Internationale d'Administration des Entreprises     FR
+null           [esiea.fr]         France     [http://www.esiea.fr/]     Ecole Supérieure d'Informatique-Electronique-Automatique     FR
+null           [esiee.fr]         France     [http://www.esiee.fr/]     Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique     FR
+null           [esigelec.fr]         France     [http://www.esigelec.fr/]     Ecole Supérieure d'Ingénieurs en Génie Electrique     FR
+null           [esim.imt-mrs.fr]         France     [http://esim.imt-mrs.fr/]     Ecole Supérieure d'Ingénieurs de Marseille     FR
+null           [esitpa.org]         France     [http://www.esitpa.org/]     Ecole Supérieure d'Ingénieurs et de Techniciens pour l'Agriculture     FR
+null           [esme.fr]         France     [http://www.esme.fr/]     Ecole Spéciale de Mécanique et d'Electricité     FR
+null           [espci.fr]         France     [http://www.espci.fr/]     Ecole Supérieure de Physique et de Chimie Industrielles     FR
+null           [essca.asso.fr]         France     [http://www.essca.asso.fr/]     Ecole Supérieure des Sciences Commerciales d'Angers     FR
+null           [essec.fr]         France     [http://www.essec.fr/]     Ecole Supérieure des Sciences Economiques et Commerciales     FR
+null           [esstin.u-nancy.fr]         France     [http://www.esstin.u-nancy.fr/]     Ecole Supérieure des Sciences et Technologie de l'Ingénieur de Nancy     FR
+null           [estp.fr]         France     [http://www.estp.fr/]     Ecole Spéciale des Travaux Publics du Bâtiment et de l'Industrie     FR
+null           [eudil.fr]         France     [http://www.eudil.fr/]     Ecole Universitaire d'Ingénieurs de Lille     FR
+null           [fupl.asso.fr]         France     [http://www.fupl.asso.fr/estit/]     Ecole Supérieure des Techniques Industrielles et des Textiles     FR
+null           [fupl.asso.fr]         France     [http://www.fupl.asso.fr/]     Université Catholique de Lille     FR
+null           [grenoble-em.com, esc-grenoble.fr]         France     [http://www.grenoble-em.com/]     Grenoble Ecole de Management     FR
+null           [groupe-esa.com]         France     [http://www.groupe-esa.com/]     Ecole Supérieure d'Agriculture d'Angers     FR
+null           [hec.fr]         France     [http://www.hec.fr/]     Ecole des Hautes Etudes Commerciales     FR
+null           [hei.fr]         France     [http://www.hei.fr/]     Ecole des Hautes Etudes Industrielles de Lille     FR
+null           [icam.fr]         France     [http://www.icam.fr/]     Institut Catholique d'Arts et Métiers Lille     FR
+null           [icam.fr]         France     [http://www.icam.fr/presentation/nantes.htm]     Institut Catholique d'Arts et Métiers Nantes     FR
+null           [icn-nancy.com]         France     [http://www.icn-nancy.com/]     Institut Commercial de Nancy     FR
+null           [icp.fr]         France     [http://www.icp.fr/]     Institut Catholique de Paris     FR
+null           [ict-toulouse.asso.fr]         France     [http://www.ict-toulouse.asso.fr/]     Institut Catholique de Toulouse     FR
+null           [iep.u-bordeaux.fr]         France     [http://www.iep.u-bordeaux.fr/]     Institut d'Etudes Politiques de Bordeaux     FR
+null           [ifp.fr]         France     [http://www.ifp.fr/EC/EC000GP1.html]     Ecole Nationale Supérieure du Pétrole et des Monteurs     FR
+null           [inp-fc.fr]         France     [http://www.inp-fc.fr/~ensigc/]     Ecole Nationale Supérieure d'Ingénieurs de Génie Chimique     FR
+null           [inp-fc.fr]         France     [http://www.inp-fc.fr/]     Institut National Polytechnique de Toulouse     FR
+null           [inpg.fr]         France     [http://www.inpg.fr/INPG/fr_see.html]     Ecole Nationale Supérieure d'Electrochimie et d'Electrométallurgie de Gernoble     FR
+null           [inpl-nancy.fr]         France     [http://www.inpl-nancy.fr/]     Institut National Polytechnique de Lorraine     FR
+null           [insa-lyon.fr]         France     [http://www.insa-lyon.fr/]     Institut National des Sciences Appliquées de Lyon     FR
+null           [insa-rennes.fr]         France     [http://www.insa-rennes.fr/]     Institut National des Sciences Appliquées de Rennes     FR
+null           [insa-rouen.fr]         France     [http://www.insa-rouen.fr/]     Institut National des Sciences Appliquées de Rouen     FR
+null           [insa-tlse.fr]         France     [http://www.insa-tlse.fr/]     Institut National des Sciences Appliquées de Toulouse     FR
+null           [inseec.fr]         France     [http://www.inseec.fr/]     Institut des hautes études économiques et commerciales     FR
+null           [int-evry.fr]         France     [http://www.int-evry.fr/]     Institut National des Télécommunications     FR
+null           [iota.u-psud.fr]         France     [http://www.iota.u-psud.fr/~ecole/]     Ecole Supérieure d'Optique     FR
+null           [ircam.fr]         France     [http://www.ircam.fr/]     Institut de Recherche et Coordination Acoustique/Musique     FR
+null           [ireste.fr]         France     [http://www.ireste.fr/]     Institut de Recherche et d'Enseignement Supérieur aux Techniques de l'électronique     FR
+null           [isab.fr]         France     [http://www.isab.fr/]     Institut Supérieur Agricole de Beauvais     FR
+null           [isa.fupl.asso.fr]         France     [http://www.isa.fupl.asso.fr/]     Institut Supérieur d'Agriculture Lille     FR
+null           [isara.fr]         France     [http://www.isara.fr/]     Institut Supérieur d'Agriculture Rhone-Alpes     FR
+null           [isen.fr]         France     [http://www.isen.fr/]     Institut Supérieure d'Electronique du Nord     FR
+null           [isep.fr]         France     [http://www.isep.fr/]     Institut Supérieure d'Electronique de Paris     FR
+null           [isim.univ-montp2.fr]         France     [http://www.isim.univ-montp2.fr/]     Institut des Sciences de l'Ingénieur de Montpellier     FR
+null           [ismcm-cesti.fr]         France     [http://www.ismcm-cesti.fr/]     Centre d'Etudes Supérieures des Techniques Industrielles     FR
+null           [ismra.fr]         France     [http://www.ismra.fr/]     Institut des Sciences de la Matière et du Rayonnement     FR
+null           [itech.fr]         France     [http://www.itech.fr/]     Institut Textile et Chimique de Lyon     FR
+null           [jussieu.fr, etu.upmc.fr, upmc.fr, etu.sorbonne-universite.fr, sorbonne-universite.fr]         France     [https://sciences.sorbonne-universite.fr/]     Sorbonne Université - Faculté des Sciences (Paris VI)     FR
+null           [mines.u-nancy.fr]         France     [http://www.mines.u-nancy.fr/]     Ecole Nationale Supérieure des Mines de Nancy     FR
+null           [montaigne.u-bordeaux.fr]         France     [http://www.montaigne.u-bordeaux.fr/]     Université Michel de Montaigne (Bordeaux III )     FR
+null           [montesquieu.u-bordeaux.fr]         France     [http://www.montesquieu.u-bordeaux.fr/]     Université Montesquieu (Bordeaux IV)     FR
+null           [nancy.archi.fr]         France     [http://www.nancy.archi.fr/]     Ecole d'Architecture de Nancy     FR
+null           [paris4.sorbonne.fr]         France     [http://www.paris4.sorbonne.fr/]     Université Paris-Sorbonne (Paris IV)     FR
+null           [paris.ensam.fr]         France     [http://www.paris.ensam.fr/]     Ecole Nationale Supérieure d'Arts et Métiers de Paris     FR
+null           [polytech-lille.fr]         France     [http://www.polytech-lille.fr/]     Ecole Polytechnique Universitaire de Lille     FR
+null           [polytech-marseille.fr]         France     [http://www.polytech-marseille.fr/]     Ecole Polytechnique Marseille     FR
+null           [polytechnique.fr, polytechnique.edu]         France     [http://www.polytechnique.fr/, https://www.polytechnique.edu/]     École Polytechnique     FR
+null           [schillerparis.com]         France     [http://www.schillerparis.com/]     Schiller International University, Paris     FR
+null           [schillerstrasbourg.com]         France     [http://www.schillerstrasbourg.com/]     Schiller International University, Strasbourg     FR
+null           [sciences-po.fr, sciencespo.fr]         France     [http://www.sciences-po.fr/]     Institut d'Etudes Politiques de Paris (Sciences Po)     FR
+null           [sigu7.jussieu.fr]         France     [http://www.sigu7.jussieu.fr/]     Université Denis Diderot (Paris VII)     FR
+null           [sorbon.fr]         France     [http://www.sorbon.fr/]     Ecole Superieure Robert de Sorbon     FR
+null           [supaero.fr]         France     [http://www.supaero.fr/]     Ecole Nationale Supérieure de l'Aéronautique et de l'Espace     FR
+null           [supco-amiens.fr]         France     [http://www.supco-amiens.fr/]     Groupe Sup de Co Amiens Picardie     FR
+null           [supco-montpellier.fr]         France     [http://www.supco-montpellier.fr/]     Groupe Sup de Co Montpellier     FR
+null           [supelec.fr]         France     [http://www.supelec.fr/]     Ecole Supérieure d'Electricité     FR
+null           [u-3mrs.fr]         France     [http://www.u-3mrs.fr/]     Université d'Aix-Marseille III     FR
+null           [u-bordeaux2.fr]         France     [http://www.u-bordeaux2.fr/]     Université Victor Segalen (Bordeaux II)     FR
+null           [ubfc.fr]         France     [http://www.ubfc.fr/]     Université Bourgogne - Franche-Comté     FR
+null           [u-cergy.fr]         France     [http://www.u-cergy.fr/]     Université de Cergy-Pontoise     FR
+null           [u-clermont1.fr]         France     [http://www.u-clermont1.fr/]     Université d'Auvergne (Clermont-Ferrand I)     FR
+null           [uco.fr]         France     [http://www.uco.fr/]     Université Catholique de l' Ouest     FR
+null           [u-grenoble3.fr, univ-grenoble-alpes.fr, ujf-grenoble.fr]         France     [https://www.univ-grenoble-alpes.fr/]     Université Grenoble Alpes     FR
+null           [uhb.fr]         France     [http://www.uhb.fr/]     Université Rennes II - Haute-Bretagne     FR
+null           [uhp-nancy.fr]         France     [http://www.uhp-nancy.fr/]     Université Henri Poincaré (Nancy I)     FR
+null           [unicaen.fr]         France     [http://www.unicaen.fr/]     Université de Caen Basse Normandie     FR
+null           [unice.fr]         France     [http://www.unice.fr/]     Université de Nice-Sophia Antipolis     FR
+null           [unilim.fr]         France     [http://www.unilim.fr/]     Université de Limoges     FR
+null           [univ-angers.fr]         France     [http://www.univ-angers.fr/]     Université d'Angers     FR
+null           [univ-artois.fr]         France     [http://www.univ-artois.fr/]     Université d'Artois     FR
+null           [univ-avignon.fr]         France     [http://www.univ-avignon.fr/]     Université d'Avignon     FR
+null           [univ-bpclermont.fr]         France     [http://www.univ-bpclermont.fr/]     Université Blaise Pascal (Clermont-Ferrand II)     FR
+null           [univ-brest.fr]         France     [http://www.univ-brest.fr/]     Université de Bretagne Occidentale     FR
+null           [univ-catholyon.fr]         France     [http://www.univ-catholyon.fr/]     Université Catholique de Lyon     FR
+null           [univ-corse.fr]         France     [http://www.univ-corse.fr/]     Université de Corse Pascal Paoli     FR
+null           [univ-evry.fr]         France     [http://www.univ-evry.fr/]     Université d'Evry Val d'Essonne     FR
+null           [univ-inpt.fr]         France     [http://www.univ-inpt.fr/~ensct/]     Ecole Nationale Supérieure de Chimie de Toulouse     FR
+null           [univ-lehavre.fr]         France     [http://www.univ-lehavre.fr/]     Université du Havre     FR
+null           [univ-lemans.fr]         France     [http://www.univ-lemans.fr/]     Université du Maine     FR
+null           [univ-lille1.fr]         France     [http://www.univ-lille1.fr/]     Université des Sciences et Technologies de Lille (Lille I)     FR
+null           [univ-lille2.fr]         France     [http://www.univ-lille2.fr/]     Université du Droit et de la Sante (Lille II)     FR
+null           [univ-lille3.fr]         France     [http://www.univ-lille3.fr/]     Université Charles-de-Gaulle (Lille III)     FR
+null           [univ-littoral.fr]         France     [http://www.univ-littoral.fr/]     Université du Littoral Cote d'Opale     FR
+null           [univ-lorraine.fr]         France     [http://www.univ-lorraine.fr/]     Université de Lorraine     FR
+null           [univ-lr.fr]         France     [http://www.univ-lr.fr/]     Université de La Rochelle     FR
+null           [univ-lyon1.fr]         France     [http://www.univ-lyon1.fr/]     Université Claude Bernard (Lyon I)     FR
+null           [univ-lyon2.fr]         France     [http://www.univ-lyon2.fr/]     Université Lumiére (Lyon II)     FR
+null           [univ-lyon3.fr]         France     [http://www.univ-lyon3.fr/]     Université Jean Moulin (Lyon III)     FR
+null           [cpe.fr]         France     [https://www.cpe.fr/]     École supérieure de chimie, physique, électronique de Lyon (CPE Lyon)     FR
+null           [univmed.fr]         France     [http://www.univmed.fr/]     Université de la Méditerranée (Aix Marseille II)     FR
+null           [univ-metz.fr]         France     [http://www.univ-metz.fr/]     Université de Metz     FR
+null           [univ-mlv.fr, u-pem.fr, etud.u-pem.fr]         France     [http://www.univ-mlv.fr/, http://www.u-pem.fr/]     Université Paris-Est Marne-la-Vallée     FR
+null           [univ-montp1.fr]         France     [http://www.univ-montp1.fr/]     Université de Montpellier I     FR
+null           [univ-montp2.fr]         France     [http://www.univ-montp2.fr/]     Université de Montpellier II     FR
+null           [univ-montp3.fr]         France     [http://www.univ-montp3.fr/]     Université Paul Valéry (Montpellier III)     FR
+null           [univ-mulhouse.fr, uha.fr]         France     [http://www.univ-mulhouse.fr/, https://www.uha.fr/]     Université de Haute-Alsace     FR
+null           [univ-nancy2.fr]         France     [http://www.univ-nancy2.fr/]     Université Nancy II     FR
+null           [univ-nantes.fr]         France     [http://www.univ-nantes.fr/]     Université de Nantes     FR
+null           [univ-orleans.fr]         France     [http://www.univ-orleans.fr/]     Université d'Orléans     FR
+null           [univ-paris12.fr]         France     [http://www.univ-paris12.fr/]     Université Val-de-Marne (Paris XII)     FR
+null           [univ-paris13.fr]         France     [http://www.univ-paris13.fr/]     Université Paris Nord (Paris XIII)     FR
+null           [univ-paris1.fr]         France     [http://www.univ-paris1.fr/]     Université Panthéon-Sorbonne (Paris I)     FR
+null           [univ-paris3.fr]         France     [http://www.univ-paris3.fr/]     Université Sorbonne-Nouvelle (Paris III)     FR
+null           [univ-paris5.fr]         France     [http://www.univ-paris5.fr/]     Université René Descartes (Paris V)     FR
+null           [univ-paris8.fr]         France     [http://www.univ-paris8.fr/]     Université Vincennes Saint-Denis (Paris VIII)     FR
+null           [univ-pau.fr]         France     [http://www.univ-pau.fr/]     Université de Pau et des Pays de l'Adour     FR
+null           [univ-perp.fr]         France     [http://www.univ-perp.fr/]     Université de Perpignan     FR
+null           [univ-poitiers.fr]         France     [http://www.univ-poitiers.fr/]     Université de Poitiers     FR
+null           [univ-reims.fr]         France     [http://www.univ-reims.fr/]     Université de Reims Champagne-Ardenne     FR
+null           [univ-rennes1.fr]         France     [http://www.univ-rennes1.fr/]     Université Rennes I     FR
+null           [univ-rouen.fr]         France     [http://www.univ-rouen.fr/]     Université de Rouen - Haute Normandie     FR
+null           [univ-savoie.fr]         France     [http://www.univ-savoie.fr/]     Université de Savoie     FR
+null           [univ-st-etienne.fr]         France     [http://www.univ-st-etienne.fr/]     Université Jean Monnet     FR
+null           [univ-tln.fr]         France     [http://www.univ-tln.fr/]     Université du Sud, Toulon et Var     FR
+null           [univ-tlse1.fr]         France     [http://www.univ-tlse1.fr/]     Université des Sciences Sociales (Toulouse I)     FR
+null           [univ-tlse2.fr]         France     [http://www.univ-tlse2.fr/]     Université de Toulouse-le-Mirail (Toulouse II)     FR
+null           [univ-toulouse.fr]         France     [http://www.univ-toulouse.fr/]     Université de Toulouse     FR
+null           [univ-tours.fr]         France     [http://www.univ-tours.fr/]     Université François Rabelais de Tours     FR
+null           [univ-ubs.fr]         France     [http://www.univ-ubs.fr/]     Université de Bretagne Sud     FR
+null           [univ-valenciennes.fr]         France     [http://www.univ-valenciennes.fr/ensimev/]     Ecole Nationale Supérieure d'Ingénieurs en Mécanique et Energétique de Valenciennes     FR
+null           [univ-valenciennes.fr]         France     [http://www.univ-valenciennes.fr/]     Université de Valenciennes et du Hainaut-Cambrésis     FR
+null           [u-paris10.fr]         France     [http://www.u-paris10.fr/]     Université Paris Nanterre (Paris X)     FR
+null           [u-paris2.fr]         France     [http://www.u-paris2.fr/]     Université Panthéon-Assas (Paris II)     FR
+null           [u-picardie.fr]         France     [http://www.u-picardie.fr/]     Université de Picardie Jules-Verne     FR
+null           [ups-tlse.fr]         France     [http://www.ups-tlse.fr/]     Université Paul Sabatier (Toulouse III)     FR
+null           [u-psud.fr]         France     [http://www.u-psud.fr/]     Université Paris Sud (Paris XI)     FR
+null           [univ-amu.fr]         France     [http://www.univ-amu.fr/]     Université d'Aix-Marseille     FR
+null           [up.univ-mrs.fr]         France     [http://www.up.univ-mrs.fr/]     Université de Provence (Aix-Marseille I)     FR
+null           [ushs.u-strasbg.fr]         France     [http://ushs.u-strasbg.fr/]     Université des Sciences Humaines (Strasbourg II)     FR
+null           [utbm.fr]         France     [http://www.utbm.fr/]     Université de Technologie de Belfort Montbéliard     FR
+null           [utc.fr]         France     [http://www.utc.fr/]     Université de Technologie de Compiègne     FR
+null           [utt.fr]         France     [http://www.utt.fr/]     Université de Technologie de Troyes     FR
+null           [uvsq.fr]         France     [http://www.uvsq.fr/]     Université de Versailles Saint-Quentin-en-Yvelines     FR
+null           [vet-alfort.fr]         France     [http://www.vet-alfort.fr/]     Ecole Nationale Vétérinaire d'Alfort     FR
+null           [vet-lyon.fr]         France     [http://www.vet-lyon.fr/]     Ecole Nationale Vétérinaire de Lyon     FR
+null           [vet-nantes.fr]         France     [http://www.vet-nantes.fr/]     Ecole Nationale Vétérinaire de Nantes     FR
+null           [www-ecpm.u-strasbg.fr]         France     [http://www-ecpm.u-strasbg.fr/]     Ecole Européenne de Chimie, Polymères et Matériaux de Strasbourg     FR
+null           [www-engees.u-strasbg.fr]         France     [http://www-engees.u-strasbg.fr/]     Ecole Nationale du Génie de l'Eau et de l'Environnement de Strasbourg     FR
+null           [www-ensais.u-strasbg.fr]         France     [http://www-ensais.u-strasbg.fr/]     Ecole Nationale Supérieure des Arts et Industries de Strasbourg     FR
+null           [grenoble-inp.fr, inpg.fr]         France     [https://grenoble-inp.fr/, https://phelma.grenoble-inp.fr/, https://ensimag.grenoble-inp.fr/, https://ense3.grenoble-inp.fr/, https://esisar.grenoble-inp.fr/, https://genie-industriel.grenoble-inp.fr/, https://pagora.grenoble-inp.fr/]     Institut polytechnique de Grenoble     FR
+null           [www-ensps.u-strasbg.fr]         France     [http://www-ensps.u-strasbg.fr/]     Ecole Nationale Supérieure de Physique de Strasbourg     FR
+null           [www-ulp.u-strasbg.fr]         France     [http://www-ulp.u-strasbg.fr/]     Université Louis Pasteur (Strasbourg I)     FR
+null           [www-urs.u-strasbg.fr]         France     [http://www-urs.u-strasbg.fr/]     Université Robert Schuman (Strasbourg III)     FR
+null           [unistra.fr, etu.unistra.fr]         France     [https://www.unistra.fr/]     Université de Strasbourg     FR
+null           [epitech.eu, epitech.net]         France     [http://www.epitech.eu/]     Ecole pour l'Informatique et les nouvelles Technologies     FR
+null           [epita.fr]         France     [http://www.epita.fr/]     Ecole Pour l'Informatique et les Techniques Avancees     FR
+null           [ipsa.fr]         France     [http://www.ipsa.fr/]     Institut polytechnique des sciences avancees     FR
+null           [etna.io]         France     [http://www.etna.io/]     Ecole des technologies numeriques appliquees     FR
+null           [esme.fr]         France     [http://www.esme.fr/]     ESME Sudria     FR
+null           [supbiotech.fr]         France     [http://www.supbiotech.fr/]     Institut Sup'Biotech de Paris     FR
+null           [mmibordeaux.com]         France     [https://www.mmibordeaux.com/]     DUT MMI - Université Bordeaux Montaigne     FR
+null           [campus-saint-marc.com, csmrouen.com, csmrouen.net]         France     [https://campus-saint-marc.com/]     Campus Saint Marc     FR
+null           [sciencespo-rennes.fr]         France     [https://www.sciencespo-rennes.fr/en/]     Institut d'études politiques de Rennes     FR
+null           [rennes-sb.com]         France     [https://www.rennes-sb.com/]     Rennes School of Business     FR
+null           [audencia.com]         France     [https://www.audencia.com/]     Audencia     FR
+null           [ac-orleans-tours.fr]         France     [https://www.ac-orleans-tours.fr/]     Académie d'Orléans-Tours     FR
+null           [ac-besancon.fr]         France     [https://www.ac-besancon.fr]     Académie de Besançon     FR
+null           [uca.fr]         France     [https://www.uca.fr]     Université Clermont Auvergne     FR
+null           [ac-paris.fr]         France     [https://www.ac-paris.fr/]     Académie de Paris     FR
+null           [ac-aix-marseille.fr]         France     [https://www.ac-aix-marseille.fr/]     Académie d'Aix-Marseille     FR
+null           [student.42.fr]         France     [http://www.42.fr/]     42 FR     FR
+null           [aea.asso.fr]         France     [http://www.aea.asso.fr/]     Ecole de l'Air     FR
+null           [agroparistech.fr]         France     [http://www.agroparistech.fr/]     AgroParisTech     FR
+null           [agro.roazhon.inra.fr]         France     [http://agro.roazhon.inra.fr/]     Ecole Nationale Supérieure d'Agronomie de Rennes     FR
+null           [agro.roazhon.inra.fr]         France     [http://agro.roazhon.inra.fr/etab/insfa/accueil.htm]     Institut National Supérieur de Formation Agro-Alimentaire     FR
+null           [agrosupdijon.fr]         France     [http://www.agrosupdijon.fr/]     AgroSup Dijon     FR
+null           [ags.edu]         France     [http://www.ags.edu/]     American Graduate School in Paris     FR
+null           [aup.fr]         France     [http://www.aup.fr/]     American University of Paris     FR
+null           [bip.lon.ac.uk]         France     [http://www.bip.lon.ac.uk/]     British Institute in Paris, University of London     FR
+null           [ceram.edu]         France     [http://www.ceram.edu/]     Ecole Supérieure de Commerce de Sophia Antipolis     FR
+null           [cesi.fr]         France     [http://www.cesi.fr/]     Centre d'Etudes Supérieures Industrielles Paris     FR
+null           [cfpj.com]         France     [http://www.cfpj.com/]     Centre de Formation et de Perfectionnement des Journalistes     FR
+null           [cnam.fr]         France     [http://www.cnam.fr/]     Conservatoire National des Arts et Métiers     FR
+null           [cnearc.fr]         France     [http://www.cnearc.fr/]     Centre National d'Etudes Agronomiques des Régions Chaudes     FR
+null           [cpe.fr]         France     [http://www.cpe.fr/]     Ecole Supérieure de Chimie Physique Electronique de Lyon     FR
+null           [cribx1.u-bordeaux.fr]         France     [http://www.cribx1.u-bordeaux.fr/]     Université Bordeaux I     FR
+null           [cust.univ-bpclermont.fr]         France     [http://cust.univ-bpclermont.fr/]     Institut des Sciences de l'Ingénieur de Clermont-Ferrand     FR
+null           [dauphine.fr]         France     [http://www.dauphine.fr/]     Université Paris-Dauphine (Paris IX)     FR
+null           [devinci.fr]         France     [http://www.devinci.fr/]     Ecole Superieur d'Ingenieurs Leonard de Vinci     FR
+null           [e3i.univ-tours.fr]         France     [http://www.e3i.univ-tours.fr/]     Ecole d'Ingénieurs en Informatique pour l'Industrie     FR
+null           [eap.fr]         France     [http://www.eap.fr/]     Ecole Européen des Affaires     FR
+null           [ebs-paris.com]         France     [http://www.ebs-paris.com/]     European Business School     FR
+null           [ecam.fr]         France     [http://www.ecam.fr/]     Ecole Catholique d'Arts & Metiers     FR
+null           [ece.fr]         France     [http://www.ece.fr/]     Ecole Centrale d'Electronique - ECE     FR
+null           [imt-atlantique.net]         France     [https://www.imt-atlantique.fr/]     IMT Atlantique     FR
+null           [ec-lille.fr]         France     [http://www.ec-lille.fr/]     Ecole Centrale de Lille     FR
+null           [ec-lyon.fr]         France     [http://www.ec-lyon.fr/]     Ecole Centrale de Lyon     FR
+null           [ec-nantes.fr]         France     [http://www.ec-nantes.fr/]     Ecole Centrale de Nantes     FR
+null           [centrale-marseille.fr]         France     [https://www.centrale-marseille.fr/]     Ecole Centrale de Marseille     FR
+null           [ecoles-idrac.com]         France     [http://www.ecoles-idrac.com/]     IDRAC (Institut de recherche en action commerciale)     FR
+null           [edu.edhec.com]         France     [http://edu.edhec.com/]     Ecole des Hautes Etudes Commerciales du Nord     FR
+null           [eerie.fr]         France     [http://www.eerie.fr/]     Ecole pour les Etudes et la Recherche en Informatique et Electronique     FR
+null           [efpg.inpg.fr]         France     [http://www.efpg.inpg.fr/]     Ecole Française de Papeterie et des Industries Graphiques     FR
+null           [efrei.fr]         France     [http://www.efrei.fr/]     Ecole Française d'Electronique et d'Informatique     FR
+null           [eivp-paris.fr]         France     [http://www.eivp-paris.fr/]     Ecole des Ingénieurs de la Ville de Paris     FR
+null           [emc-campus.com]         France     [http://www.emc-campus.com/]     European Management Center Paris     FR
+null           [em-lyon.com]         France     [http://www.em-lyon.com/]     Ecole Supérieure de Commerce de Lyon     FR
+null           [emse.fr]         France     [http://www.emse.fr/]     Ecole Nationale Supérieure des Mines de St-Etienne     FR
+null           [enac.fr]         France     [http://www.enac.fr/]     Ecole Nationale de l'Aviation Civile     FR
+null           [ena.fr]         France     [http://www.ena.fr/]     Ecole Nationale d'Administration     FR
+null           [enic.fr]         France     [http://www.enic.fr/]     ENIC Telecom Lille 1     FR
+null           [enim.fr]         France     [http://www.enim.fr/]     Ecole Nationale d'Ingénieurs de Metz     FR
+null           [enise.fr]         France     [http://www.enise.fr/]     Ecole Nationale d'Ingénieurs de Saint-Etienne     FR
+null           [enitab.fr]         France     [http://www.enitab.fr/]     Ecole Nationale d'Ingénieurs des Travaux Agricoles de Bordeaux     FR
+null           [enitac.fr]         France     [http://www.enitac.fr/]     Ecole Nationale d'Ingénieurs des Travaux Agricoles de Clermont-Ferrand     FR
+null           [enit.fr]         France     [http://www.enit.fr/]     Ecole Nationale d'Ingénieurs de Tarbes     FR
+null           [enitiaa-nantes.fr]         France     [http://www.enitiaa-nantes.fr/]     Ecole Nationale d'Ingénieurs des Techniques des Industries Agricoles et Alimentaires     FR
+null           [enm.meteo.fr]         France     [http://www.enm.meteo.fr/]     Ecole Nationale de la Météorologie     FR
+null           [enpc.fr]         France     [http://www.enpc.fr/]     Ecole Nationale des Ponts et Chausees     FR
+null           [ens2m.fr]         France     [http://www.ens2m.fr/]     Ecole Nationale Supérieur de Mécaniques et des Microtechniques     FR
+null           [ensae.fr]         France     [http://www.ensae.fr/]     Ecole Nationale de la Statistique et de l'Administration Economique     FR
+null           [ensaia.u-nancy.fr]         France     [http://www.ensaia.u-nancy.fr/]     Ecole Nationale Supérieure d'Agronomie et des Industries Alimentaires     FR
+null           [ensai.fr]         France     [http://www.ensai.fr/]     Ecole Nationale de la Statistique et de l'Analyse de l'information     FR
+null           [ensait.fr]         France     [http://www.ensait.fr/]     Ecole Nationale Supérieure des Arts et Industries Textiles     FR
+null           [ensam.inra.fr]         France     [http://www.ensam.inra.fr/]     Ecole Nationale Supérieure d'Agronomie de Montpellier     FR
+null           [ensat.fr]         France     [http://www.ensat.fr/]     Ecole Nationale Supérieure Agronomique de Toulouse     FR
+null           [ens-cachan.fr]         France     [http://www.ens-cachan.fr/]     Ecole Normale Supérieure de Cachan     FR
+null           [ensccf.univ-bpclermont.fr]         France     [http://ensccf.univ-bpclermont.fr/]     Ecole Nationale Supérieure de Chimie de Clermont-Ferrand     FR
+null           [ensc-lille.fr]         France     [http://www.ensc-lille.fr/]     Ecole Nationale Supérieure de Chimie de Lille     FR
+null           [enscm.fr]         France     [http://www.enscm.fr/]     Ecole Nationale Supérieure de Chimie de Montpellier     FR
+null           [enscmu.univ-mulhouse.fr]         France     [http://www.enscmu.univ-mulhouse.fr/]     Ecole Nationale Supérieure de Chimie de Mulhouse     FR
+null           [enscpb.u-bordeaux.fr]         France     [http://www.enscpb.u-bordeaux.fr/]     Ecole Nationale Supérieure de Chimie et de Physique de Bordeaux     FR
+null           [enscp.jussieu.fr]         France     [http://www.enscp.jussieu.fr/]     Ecole Nationale Supérieure de Chimie de Paris     FR
+null           [ensc-rennes.fr]         France     [http://www.ensc-rennes.fr/]     Ecole Nationale Supérieure de Chimie de Rennes     FR
+null           [ensea.fr]         France     [http://www.ensea.fr/]     Ecole Nationale Supérieure de l'Electronique et de ses Applications     FR
+null           [enseeiht.fr]         France     [http://www.enseeiht.fr/]     Ecole Nationale Supérieure d'Electronique, d'Electrotechnique, d'Informatique et d'Hydraulique de Toulouse     FR
+null           [enseeiht.fr]         France     [http://www.enseeiht.fr/]     Ecole Nationale Supérieure en Electrotechnique, Electronique, Informatique et Hydraulique de Toulouse     FR
+null           [ensem.u-nancy.fr]         France     [http://www.ensem.u-nancy.fr/]     Ecole Nationale Supérieure Electricité et Mécanique     FR
+null           [enserb.u-bordeaux.fr]         France     [http://www.enserb.u-bordeaux.fr/]     Ecole Nationale Supérieure d'Electronique et de Radioelectricite de Bordeaux     FR
+null           [ens-fcl.fr]         France     [http://www.ens-fcl.fr/]     Ecole Normale Supérieure de Fontenay-Saint Cloud     FR
+null           [ens.fr]         France     [http://www.ens.fr/]     Ecole Normale Supérieure de Paris     FR
+null           [ensg.ign.fr]         France     [http://www.ensg.ign.fr/]     Ecole Nationale des Sciences Géographiques     FR
+null           [ensg.u-nancy.fr]         France     [http://www.ensg.u-nancy.fr/]     Ecole Nationale Supérieur de Géologie de Nancy     FR
+null           [ensica.fr]         France     [http://www.ensica.fr/]     Ecole Nationale Supérieur d'Ingénieurs de Constructions Aéronautique     FR
+null           [ensica.fr]         France     [http://www.ensica.fr/]     École Nationale Supérieure d'Ingénieurs de Constructions Aéronautiques     FR
+null           [ensic.u-nancy.fr]         France     [http://www.ensic.u-nancy.fr/]     Ecole Nationale Supérieure des Industries Chimiques de Nancy     FR
+null           [ensieta.fr]         France     [http://www.ensieta.fr/]     Ecole Nationale Supérieur des Ingénieur des Etudes et Techniques d'Armement     FR
+null           [ensitm.fr]         France     [http://www.ensitm.fr/]     Ecole Nationale Supérieure des Industries Textiles de Mulhouse     FR
+null           [ens-lyon.fr]         France     [http://www.ens-lyon.fr/]     Ecole Normale Supérieure de Lyon     FR
+null           [ensma.fr]         France     [http://www.ensma.fr/]     Ecole Nationale Supérieur de Mécanique et d'Aéronautique     FR
+null           [ensm-ales.fr, mines-ales.fr, mines-ales.org]         France     [https://www.mines-ales.fr/]     Ecole Nationale Supérieure des Mines d'Alès     FR
+null           [ensm-douai.fr]         France     [http://www.ensm-douai.fr/]     Ecole Nationale Supérieure des Mines de Douai     FR
+null           [ensmp.fr]         France     [http://www.ensmp.fr/]     Ecole Nationale Supérieure des Mines de Paris     FR
+null           [enspm.u-3mrs.fr]         France     [http://www.enspm.u-3mrs.fr/]     Ecole Nationale Supérieure de Physique de Marseille     FR
+null           [ensta.fr]         France     [http://www.ensta.fr/]     Ecole Nationale Supérieure de Techniques Avancées     FR
+null           [enst-bretagne.fr]         France     [http://www.enst-bretagne.fr/]     Ecole Nationale Supérieure des Telecommunications de Bretagne     FR
+null           [enst.fr]         France     [http://www.enst.fr/]     Ecole Nationale Supérieure des Telecommunications de Paris     FR
+null           [entpe.fr]         France     [http://www.entpe.fr/]     Ecole Nationale des Travaux Publics de l'Etat     FR
+null           [envt.fr]         France     [http://www.envt.fr/]     Ecole Nationale Vétérinaire de Toulouse     FR
+null           [epf.fr]         France     [http://www.epf.fr/]     EPF Ecole d'Ingénieurs     FR
+null           [esa-purpan.fr]         France     [http://www.esa-purpan.fr/]     Ecole Supérieure d'Agriculture de Purpan     FR
+null           [esc-bordeaux.fr]         France     [http://www.esc-bordeaux.fr/]     Ecole Supérieure de Commerce de Bordeaux     FR
+null           [esc-brest.fr]         France     [http://www.esc-brest.fr/]     Ecole Supérieure de Commerce de Brest     FR
+null           [esc-clermont.fr]         France     [http://www.esc-clermont.fr/]     Ecole Supérieure de Commerce de Clermont-Ferrand     FR
+null           [escdijon.com]         France     [http://www.escdijon.com/]     Ecole Supérieure de Commerce de Dijon     FR
+null           [escem.fr]         France     [http://www.escem.fr/]     Ecole Supérieure de Commerce et Management     FR
+null           [esc-lille.fr]         France     [http://www.esc-lille.fr/]     Ecole Supérieure de Commerce de Lille     FR
+null           [esc-marseille.fr]         France     [http://www.esc-marseille.fr/]     Ecole Supérieure de Commerce de Marseille-Provence     FR
+null           [escna.fr]         France     [http://www.escna.fr/]     Ecole Supérieure de Commerce de Nantes-Atlantique     FR
+null           [esc-normandie.fr]         France     [http://www.esc-normandie.fr/]     Ecole Supérieure de Commerce de Le Havre/Caen     FR
+null           [escom.fr]         France     [http://www.escom.fr/]     Ecole Supérieure de Chimie Organique et Minérale     FR
+null           [esc-pau.fr]         France     [http://www.esc-pau.fr/]     Ecole Supérieure de Commerce de Pau     FR
+null           [escp.fr, escp.eu, edu.escp.eu]         France     [http://www.escp.fr/, https://escp.eu/]     Ecole Supérieure de Commerce de Paris     FR
+null           [esc-reims.edu]         France     [http://www.esc-reims.edu/]     Ecole Supérieure de Commerce de Reims     FR
+null           [esc-rouen.fr]         France     [http://www.esc-rouen.fr/]     Ecole Supérieure de Commerce de Rouen     FR
+null           [esc-toulouse.fr]         France     [http://www.esc-toulouse.fr/]     Ecole Supérieure de Commerce de Toulouse     FR
+null           [eseo.fr]         France     [http://www.eseo.fr/]     Ecole Supérieure d'Electronique de l'Ouest     FR
+null           [esiae.fr]         France     [http://www.esiae.fr/]     Ecole Supérieure Internationale d'Administration des Entreprises     FR
+null           [esiea.fr]         France     [http://www.esiea.fr/]     Ecole Supérieure d'Informatique-Electronique-Automatique     FR
+null           [esiee.fr]         France     [http://www.esiee.fr/]     Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique     FR
+null           [esigelec.fr]         France     [http://www.esigelec.fr/]     Ecole Supérieure d'Ingénieurs en Génie Electrique     FR
+null           [esim.imt-mrs.fr]         France     [http://esim.imt-mrs.fr/]     Ecole Supérieure d'Ingénieurs de Marseille     FR
+null           [esitpa.org]         France     [http://www.esitpa.org/]     Ecole Supérieure d'Ingénieurs et de Techniciens pour l'Agriculture     FR
+null           [esme.fr]         France     [http://www.esme.fr/]     Ecole Spéciale de Mécanique et d'Electricité     FR
+null           [espci.fr]         France     [http://www.espci.fr/]     Ecole Supérieure de Physique et de Chimie Industrielles     FR
+null           [essca.asso.fr]         France     [http://www.essca.asso.fr/]     Ecole Supérieure des Sciences Commerciales d'Angers     FR
+null           [essec.fr]         France     [http://www.essec.fr/]     Ecole Supérieure des Sciences Economiques et Commerciales     FR
+null           [esstin.u-nancy.fr]         France     [http://www.esstin.u-nancy.fr/]     Ecole Supérieure des Sciences et Technologie de l'Ingénieur de Nancy     FR
+null           [estp.fr]         France     [http://www.estp.fr/]     Ecole Spéciale des Travaux Publics du Bâtiment et de l'Industrie     FR
+null           [eudil.fr]         France     [http://www.eudil.fr/]     Ecole Universitaire d'Ingénieurs de Lille     FR
+null           [fupl.asso.fr]         France     [http://www.fupl.asso.fr/estit/]     Ecole Supérieure des Techniques Industrielles et des Textiles     FR
+null           [fupl.asso.fr]         France     [http://www.fupl.asso.fr/]     Université Catholique de Lille     FR
+null           [grenoble-em.com, esc-grenoble.fr]         France     [http://www.grenoble-em.com/]     Grenoble Ecole de Management     FR
+null           [groupe-esa.com]         France     [http://www.groupe-esa.com/]     Ecole Supérieure d'Agriculture d'Angers     FR
+null           [hec.fr]         France     [http://www.hec.fr/]     Ecole des Hautes Etudes Commerciales     FR
+null           [hei.fr]         France     [http://www.hei.fr/]     Ecole des Hautes Etudes Industrielles de Lille     FR
+null           [icam.fr]         France     [http://www.icam.fr/]     Institut Catholique d'Arts et Métiers Lille     FR
+null           [icam.fr]         France     [http://www.icam.fr/presentation/nantes.htm]     Institut Catholique d'Arts et Métiers Nantes     FR
+null           [icn-nancy.com]         France     [http://www.icn-nancy.com/]     Institut Commercial de Nancy     FR
+null           [icp.fr]         France     [http://www.icp.fr/]     Institut Catholique de Paris     FR
+null           [ict-toulouse.asso.fr]         France     [http://www.ict-toulouse.asso.fr/]     Institut Catholique de Toulouse     FR
+null           [iep.u-bordeaux.fr]         France     [http://www.iep.u-bordeaux.fr/]     Institut d'Etudes Politiques de Bordeaux     FR
+null           [ifp.fr]         France     [http://www.ifp.fr/EC/EC000GP1.html]     Ecole Nationale Supérieure du Pétrole et des Monteurs     FR
+null           [inp-fc.fr]         France     [http://www.inp-fc.fr/~ensigc/]     Ecole Nationale Supérieure d'Ingénieurs de Génie Chimique     FR
+null           [inp-fc.fr]         France     [http://www.inp-fc.fr/]     Institut National Polytechnique de Toulouse     FR
+null           [inpg.fr]         France     [http://www.inpg.fr/INPG/fr_see.html]     Ecole Nationale Supérieure d'Electrochimie et d'Electrométallurgie de Gernoble     FR
+null           [inpl-nancy.fr]         France     [http://www.inpl-nancy.fr/]     Institut National Polytechnique de Lorraine     FR
+null           [insa-lyon.fr]         France     [http://www.insa-lyon.fr/]     Institut National des Sciences Appliquées de Lyon     FR
+null           [insa-rennes.fr]         France     [http://www.insa-rennes.fr/]     Institut National des Sciences Appliquées de Rennes     FR
+null           [insa-rouen.fr]         France     [http://www.insa-rouen.fr/]     Institut National des Sciences Appliquées de Rouen     FR
+null           [insa-tlse.fr]         France     [http://www.insa-tlse.fr/]     Institut National des Sciences Appliquées de Toulouse     FR
+null           [inseec.fr]         France     [http://www.inseec.fr/]     Institut des hautes études économiques et commerciales     FR
+null           [int-evry.fr]         France     [http://www.int-evry.fr/]     Institut National des Télécommunications     FR
+null           [iota.u-psud.fr]         France     [http://www.iota.u-psud.fr/~ecole/]     Ecole Supérieure d'Optique     FR
+null           [ircam.fr]         France     [http://www.ircam.fr/]     Institut de Recherche et Coordination Acoustique/Musique     FR
+null           [ireste.fr]         France     [http://www.ireste.fr/]     Institut de Recherche et d'Enseignement Supérieur aux Techniques de l'électronique     FR
+null           [isab.fr]         France     [http://www.isab.fr/]     Institut Supérieur Agricole de Beauvais     FR
+null           [isa.fupl.asso.fr]         France     [http://www.isa.fupl.asso.fr/]     Institut Supérieur d'Agriculture Lille     FR
+null           [isara.fr]         France     [http://www.isara.fr/]     Institut Supérieur d'Agriculture Rhone-Alpes     FR
+null           [isen.fr]         France     [http://www.isen.fr/]     Institut Supérieure d'Electronique du Nord     FR
+null           [isep.fr]         France     [http://www.isep.fr/]     Institut Supérieure d'Electronique de Paris     FR
+null           [isim.univ-montp2.fr]         France     [http://www.isim.univ-montp2.fr/]     Institut des Sciences de l'Ingénieur de Montpellier     FR
+null           [ismcm-cesti.fr]         France     [http://www.ismcm-cesti.fr/]     Centre d'Etudes Supérieures des Techniques Industrielles     FR
+null           [ismra.fr]         France     [http://www.ismra.fr/]     Institut des Sciences de la Matière et du Rayonnement     FR
+null           [itech.fr]         France     [http://www.itech.fr/]     Institut Textile et Chimique de Lyon     FR
+null           [jussieu.fr, etu.upmc.fr, upmc.fr, etu.sorbonne-universite.fr, sorbonne-universite.fr]         France     [https://sciences.sorbonne-universite.fr/]     Sorbonne Université - Faculté des Sciences (Paris VI)     FR
+null           [mines.u-nancy.fr]         France     [http://www.mines.u-nancy.fr/]     Ecole Nationale Supérieure des Mines de Nancy     FR
+null           [montaigne.u-bordeaux.fr]         France     [http://www.montaigne.u-bordeaux.fr/]     Université Michel de Montaigne (Bordeaux III )     FR
+null           [montesquieu.u-bordeaux.fr]         France     [http://www.montesquieu.u-bordeaux.fr/]     Université Montesquieu (Bordeaux IV)     FR
+null           [nancy.archi.fr]         France     [http://www.nancy.archi.fr/]     Ecole d'Architecture de Nancy     FR
+null           [paris4.sorbonne.fr]         France     [http://www.paris4.sorbonne.fr/]     Université Paris-Sorbonne (Paris IV)     FR
+null           [paris.ensam.fr]         France     [http://www.paris.ensam.fr/]     Ecole Nationale Supérieure d'Arts et Métiers de Paris     FR
+null           [polytech-lille.fr]         France     [http://www.polytech-lille.fr/]     Ecole Polytechnique Universitaire de Lille     FR
+null           [polytech-marseille.fr]         France     [http://www.polytech-marseille.fr/]     Ecole Polytechnique Marseille     FR
+null           [polytechnique.fr, polytechnique.edu]         France     [http://www.polytechnique.fr/, https://www.polytechnique.edu/]     École Polytechnique     FR
+null           [schillerparis.com]         France     [http://www.schillerparis.com/]     Schiller International University, Paris     FR
+null           [schillerstrasbourg.com]         France     [http://www.schillerstrasbourg.com/]     Schiller International University, Strasbourg     FR
+null           [sciences-po.fr, sciencespo.fr]         France     [http://www.sciences-po.fr/]     Institut d'Etudes Politiques de Paris (Sciences Po)     FR
+null           [sigu7.jussieu.fr]         France     [http://www.sigu7.jussieu.fr/]     Université Denis Diderot (Paris VII)     FR
+null           [sorbon.fr]         France     [http://www.sorbon.fr/]     Ecole Superieure Robert de Sorbon     FR
+null           [supaero.fr]         France     [http://www.supaero.fr/]     Ecole Nationale Supérieure de l'Aéronautique et de l'Espace     FR
+null           [supco-amiens.fr]         France     [http://www.supco-amiens.fr/]     Groupe Sup de Co Amiens Picardie     FR
+null           [supco-montpellier.fr]         France     [http://www.supco-montpellier.fr/]     Groupe Sup de Co Montpellier     FR
+null           [supelec.fr]         France     [http://www.supelec.fr/]     Ecole Supérieure d'Electricité     FR
+null           [u-3mrs.fr]         France     [http://www.u-3mrs.fr/]     Université d'Aix-Marseille III     FR
+null           [u-bordeaux2.fr]         France     [http://www.u-bordeaux2.fr/]     Université Victor Segalen (Bordeaux II)     FR
+null           [ubfc.fr]         France     [http://www.ubfc.fr/]     Université Bourgogne - Franche-Comté     FR
+null           [u-cergy.fr]         France     [http://www.u-cergy.fr/]     Université de Cergy-Pontoise     FR
+null           [u-clermont1.fr]         France     [http://www.u-clermont1.fr/]     Université d'Auvergne (Clermont-Ferrand I)     FR
+null           [uco.fr]         France     [http://www.uco.fr/]     Université Catholique de l' Ouest     FR
+null           [u-grenoble3.fr, univ-grenoble-alpes.fr, ujf-grenoble.fr]         France     [https://www.univ-grenoble-alpes.fr/]     Université Grenoble Alpes     FR
+null           [uhb.fr]         France     [http://www.uhb.fr/]     Université Rennes II - Haute-Bretagne     FR
+null           [uhp-nancy.fr]         France     [http://www.uhp-nancy.fr/]     Université Henri Poincaré (Nancy I)     FR
+null           [unicaen.fr]         France     [http://www.unicaen.fr/]     Université de Caen Basse Normandie     FR
+null           [unice.fr]         France     [http://www.unice.fr/]     Université de Nice-Sophia Antipolis     FR
+null           [unilim.fr]         France     [http://www.unilim.fr/]     Université de Limoges     FR
+null           [univ-angers.fr]         France     [http://www.univ-angers.fr/]     Université d'Angers     FR
+null           [univ-artois.fr]         France     [http://www.univ-artois.fr/]     Université d'Artois     FR
+null           [univ-avignon.fr]         France     [http://www.univ-avignon.fr/]     Université d'Avignon     FR
+null           [univ-bpclermont.fr]         France     [http://www.univ-bpclermont.fr/]     Université Blaise Pascal (Clermont-Ferrand II)     FR
+null           [univ-brest.fr]         France     [http://www.univ-brest.fr/]     Université de Bretagne Occidentale     FR
+null           [univ-catholyon.fr]         France     [http://www.univ-catholyon.fr/]     Université Catholique de Lyon     FR
+null           [univ-corse.fr]         France     [http://www.univ-corse.fr/]     Université de Corse Pascal Paoli     FR
+null           [univ-evry.fr]         France     [http://www.univ-evry.fr/]     Université d'Evry Val d'Essonne     FR
+null           [univ-inpt.fr]         France     [http://www.univ-inpt.fr/~ensct/]     Ecole Nationale Supérieure de Chimie de Toulouse     FR
+null           [univ-lehavre.fr]         France     [http://www.univ-lehavre.fr/]     Université du Havre     FR
+null           [univ-lemans.fr]         France     [http://www.univ-lemans.fr/]     Université du Maine     FR
+null           [univ-lille1.fr]         France     [http://www.univ-lille1.fr/]     Université des Sciences et Technologies de Lille (Lille I)     FR
+null           [univ-lille2.fr]         France     [http://www.univ-lille2.fr/]     Université du Droit et de la Sante (Lille II)     FR
+null           [univ-lille3.fr]         France     [http://www.univ-lille3.fr/]     Université Charles-de-Gaulle (Lille III)     FR
+null           [univ-littoral.fr]         France     [http://www.univ-littoral.fr/]     Université du Littoral Cote d'Opale     FR
+null           [univ-lorraine.fr]         France     [http://www.univ-lorraine.fr/]     Université de Lorraine     FR
+null           [univ-lr.fr]         France     [http://www.univ-lr.fr/]     Université de La Rochelle     FR
+null           [univ-lyon1.fr]         France     [http://www.univ-lyon1.fr/]     Université Claude Bernard (Lyon I)     FR
+null           [univ-lyon2.fr]         France     [http://www.univ-lyon2.fr/]     Université Lumiére (Lyon II)     FR
+null           [univ-lyon3.fr]         France     [http://www.univ-lyon3.fr/]     Université Jean Moulin (Lyon III)     FR
+null           [cpe.fr]         France     [https://www.cpe.fr/]     École supérieure de chimie, physique, électronique de Lyon (CPE Lyon)     FR
+null           [univmed.fr]         France     [http://www.univmed.fr/]     Université de la Méditerranée (Aix Marseille II)     FR
+null           [univ-metz.fr]         France     [http://www.univ-metz.fr/]     Université de Metz     FR
+null           [univ-mlv.fr, u-pem.fr, etud.u-pem.fr]         France     [http://www.univ-mlv.fr/, http://www.u-pem.fr/]     Université Paris-Est Marne-la-Vallée     FR
+null           [univ-montp1.fr]         France     [http://www.univ-montp1.fr/]     Université de Montpellier I     FR
+null           [univ-montp2.fr]         France     [http://www.univ-montp2.fr/]     Université de Montpellier II     FR
+null           [univ-montp3.fr]         France     [http://www.univ-montp3.fr/]     Université Paul Valéry (Montpellier III)     FR
+null           [univ-mulhouse.fr, uha.fr]         France     [http://www.univ-mulhouse.fr/, https://www.uha.fr/]     Université de Haute-Alsace     FR
+null           [univ-nancy2.fr]         France     [http://www.univ-nancy2.fr/]     Université Nancy II     FR
+null           [univ-nantes.fr]         France     [http://www.univ-nantes.fr/]     Université de Nantes     FR
+null           [univ-orleans.fr]         France     [http://www.univ-orleans.fr/]     Université d'Orléans     FR
+null           [univ-paris12.fr]         France     [http://www.univ-paris12.fr/]     Université Val-de-Marne (Paris XII)     FR
+null           [univ-paris13.fr]         France     [http://www.univ-paris13.fr/]     Université Paris Nord (Paris XIII)     FR
+null           [univ-paris1.fr]         France     [http://www.univ-paris1.fr/]     Université Panthéon-Sorbonne (Paris I)     FR
+null           [univ-paris3.fr]         France     [http://www.univ-paris3.fr/]     Université Sorbonne-Nouvelle (Paris III)     FR
+null           [univ-paris5.fr]         France     [http://www.univ-paris5.fr/]     Université René Descartes (Paris V)     FR
+null           [univ-paris8.fr]         France     [http://www.univ-paris8.fr/]     Université Vincennes Saint-Denis (Paris VIII)     FR
+null           [univ-pau.fr]         France     [http://www.univ-pau.fr/]     Université de Pau et des Pays de l'Adour     FR
+null           [univ-perp.fr]         France     [http://www.univ-perp.fr/]     Université de Perpignan     FR
+null           [univ-poitiers.fr]         France     [http://www.univ-poitiers.fr/]     Université de Poitiers     FR
+null           [univ-reims.fr]         France     [http://www.univ-reims.fr/]     Université de Reims Champagne-Ardenne     FR
+null           [univ-rennes1.fr]         France     [http://www.univ-rennes1.fr/]     Université Rennes I     FR
+null           [univ-rouen.fr]         France     [http://www.univ-rouen.fr/]     Université de Rouen - Haute Normandie     FR
+null           [univ-savoie.fr]         France     [http://www.univ-savoie.fr/]     Université de Savoie     FR
+null           [univ-st-etienne.fr]         France     [http://www.univ-st-etienne.fr/]     Université Jean Monnet     FR
+null           [univ-tln.fr]         France     [http://www.univ-tln.fr/]     Université du Sud, Toulon et Var     FR
+null           [univ-tlse1.fr]         France     [http://www.univ-tlse1.fr/]     Université des Sciences Sociales (Toulouse I)     FR
+null           [univ-tlse2.fr]         France     [http://www.univ-tlse2.fr/]     Université de Toulouse-le-Mirail (Toulouse II)     FR
+null           [univ-toulouse.fr]         France     [http://www.univ-toulouse.fr/]     Université de Toulouse     FR
+null           [univ-tours.fr]         France     [http://www.univ-tours.fr/]     Université François Rabelais de Tours     FR
+null           [univ-ubs.fr]         France     [http://www.univ-ubs.fr/]     Université de Bretagne Sud     FR
+null           [univ-valenciennes.fr]         France     [http://www.univ-valenciennes.fr/ensimev/]     Ecole Nationale Supérieure d'Ingénieurs en Mécanique et Energétique de Valenciennes     FR
+null           [univ-valenciennes.fr]         France     [http://www.univ-valenciennes.fr/]     Université de Valenciennes et du Hainaut-Cambrésis     FR
+null           [u-paris10.fr]         France     [http://www.u-paris10.fr/]     Université Paris Nanterre (Paris X)     FR
+null           [u-paris2.fr]         France     [http://www.u-paris2.fr/]     Université Panthéon-Assas (Paris II)     FR
+null           [u-picardie.fr]         France     [http://www.u-picardie.fr/]     Université de Picardie Jules-Verne     FR
+null           [ups-tlse.fr]         France     [http://www.ups-tlse.fr/]     Université Paul Sabatier (Toulouse III)     FR
+null           [u-psud.fr]         France     [http://www.u-psud.fr/]     Université Paris Sud (Paris XI)     FR
+null           [univ-amu.fr]         France     [http://www.univ-amu.fr/]     Université d'Aix-Marseille     FR
+null           [up.univ-mrs.fr]         France     [http://www.up.univ-mrs.fr/]     Université de Provence (Aix-Marseille I)     FR
+null           [ushs.u-strasbg.fr]         France     [http://ushs.u-strasbg.fr/]     Université des Sciences Humaines (Strasbourg II)     FR
+null           [utbm.fr]         France     [http://www.utbm.fr/]     Université de Technologie de Belfort Montbéliard     FR
+null           [utc.fr]         France     [http://www.utc.fr/]     Université de Technologie de Compiègne     FR
+null           [utt.fr]         France     [http://www.utt.fr/]     Université de Technologie de Troyes     FR
+null           [uvsq.fr]         France     [http://www.uvsq.fr/]     Université de Versailles Saint-Quentin-en-Yvelines     FR
+null           [vet-alfort.fr]         France     [http://www.vet-alfort.fr/]     Ecole Nationale Vétérinaire d'Alfort     FR
+null           [vet-lyon.fr]         France     [http://www.vet-lyon.fr/]     Ecole Nationale Vétérinaire de Lyon     FR
+null           [vet-nantes.fr]         France     [http://www.vet-nantes.fr/]     Ecole Nationale Vétérinaire de Nantes     FR
+null           [www-ecpm.u-strasbg.fr]         France     [http://www-ecpm.u-strasbg.fr/]     Ecole Européenne de Chimie, Polymères et Matériaux de Strasbourg     FR
+null           [www-engees.u-strasbg.fr]         France     [http://www-engees.u-strasbg.fr/]     Ecole Nationale du Génie de l'Eau et de l'Environnement de Strasbourg     FR
+null           [www-ensais.u-strasbg.fr]         France     [http://www-ensais.u-strasbg.fr/]     Ecole Nationale Supérieure des Arts et Industries de Strasbourg     FR
+null           [grenoble-inp.fr, inpg.fr]         France     [https://grenoble-inp.fr/, https://phelma.grenoble-inp.fr/, https://ensimag.grenoble-inp.fr/, https://ense3.grenoble-inp.fr/, https://esisar.grenoble-inp.fr/, https://genie-industriel.grenoble-inp.fr/, https://pagora.grenoble-inp.fr/]     Institut polytechnique de Grenoble     FR
+null           [www-ensps.u-strasbg.fr]         France     [http://www-ensps.u-strasbg.fr/]     Ecole Nationale Supérieure de Physique de Strasbourg     FR
+null           [www-ulp.u-strasbg.fr]         France     [http://www-ulp.u-strasbg.fr/]     Université Louis Pasteur (Strasbourg I)     FR
+null           [www-urs.u-strasbg.fr]         France     [http://www-urs.u-strasbg.fr/]     Université Robert Schuman (Strasbourg III)     FR
+null           [unistra.fr, etu.unistra.fr]         France     [https://www.unistra.fr/]     Université de Strasbourg     FR
+null           [epitech.eu, epitech.net]         France     [http://www.epitech.eu/]     Ecole pour l'Informatique et les nouvelles Technologies     FR
+null           [epita.fr]         France     [http://www.epita.fr/]     Ecole Pour l'Informatique et les Techniques Avancees     FR
+null           [ipsa.fr]         France     [http://www.ipsa.fr/]     Institut polytechnique des sciences avancees     FR
+null           [etna.io]         France     [http://www.etna.io/]     Ecole des technologies numeriques appliquees     FR
+null           [esme.fr]         France     [http://www.esme.fr/]     ESME Sudria     FR
+null           [supbiotech.fr]         France     [http://www.supbiotech.fr/]     Institut Sup'Biotech de Paris     FR
+null           [mmibordeaux.com]         France     [https://www.mmibordeaux.com/]     DUT MMI - Université Bordeaux Montaigne     FR
+null           [campus-saint-marc.com, csmrouen.com, csmrouen.net]         France     [https://campus-saint-marc.com/]     Campus Saint Marc     FR
+null           [sciencespo-rennes.fr]         France     [https://www.sciencespo-rennes.fr/en/]     Institut d'études politiques de Rennes     FR
+null           [rennes-sb.com]         France     [https://www.rennes-sb.com/]     Rennes School of Business     FR
+null           [audencia.com]         France     [https://www.audencia.com/]     Audencia     FR
+null           [ac-orleans-tours.fr]         France     [https://www.ac-orleans-tours.fr/]     Académie d'Orléans-Tours     FR
+null           [ac-besancon.fr]         France     [https://www.ac-besancon.fr]     Académie de Besançon     FR
+null           [uca.fr]         France     [https://www.uca.fr]     Université Clermont Auvergne     FR
