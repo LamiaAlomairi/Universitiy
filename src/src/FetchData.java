@@ -102,7 +102,7 @@ public class FetchData extends MenuItem{
 	
 	public void fetchFromDB() {
 		try {
-			String url = "jdbc:sqlserver://localhost:1433;" + "databaseName = myDB;" + "encrypt = true;" + "trustServerCertificate = true";
+			String url = "jdbc:sqlserver://localhost:1433;" + "databaseName = " + Main.db_name +";" + "encrypt = true;" + "trustServerCertificate = true";
 			String user = "sa";
 	        String pass = "root";
 	        Connection con = null;
@@ -126,7 +126,8 @@ public class FetchData extends MenuItem{
             }
 
             System.out.println("______________________________________________________________________________________________________________________________________________________________________________ ");
-        } catch (Exception ex) {
+            con.close();
+		} catch (Exception ex) {
             System.err.println(ex);
         }
 	}

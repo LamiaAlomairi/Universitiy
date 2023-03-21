@@ -26,7 +26,7 @@ public class Main {
 //  **************************************************************************************************************************    
     public static void main(String[] args) {
     	SelectData.loop = true;
-        //initial_database();
+        initial_database();
         createTable();
     	Array();
         while(project) {
@@ -88,7 +88,7 @@ public class Main {
 //  **********************      Create Table      ****************************************************************************    
 //  **************************************************************************************************************************    
     static void createTable() {
-    	String url = "jdbc:sqlserver://localhost:1433;" + "databaseName = myDB"/* + db_name*/ +";" + "encrypt = true;" + "trustServerCertificate = true";
+    	String url = "jdbc:sqlserver://localhost:1433;" + "databaseName =" + db_name +";" + "encrypt = true;" + "trustServerCertificate = true";
     	String user = "sa";
 		String pass = "root";
 	    Connection con = null;
@@ -109,7 +109,7 @@ public class Main {
                     + "    alpha_two_code CHAR(2) \r\n"
                     + ");";
             st.executeUpdate(sql_university);
-            //con.close();
+            con.close();
         }
 	        catch (Exception ex) {
 	            System.out.println("Something Error Happened -_- ");

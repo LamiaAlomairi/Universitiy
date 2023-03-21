@@ -36,14 +36,14 @@ public class ListOfCountry extends MenuItem {
         displayCountryList(countries);
 
         // Prompt the user to select a country
-        Scanner scanner = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
         System.out.print("Enter the number of a country to see its list of universities: ");
-        int countryIndex = scanner.nextInt();
+        int countryIndex = scan.nextInt();
 
         // Ensure that the user input is valid
         while (countryIndex < 1 || countryIndex > countries.size()) {
             System.out.println("Invalid input. Please try again.");
-            countryIndex = scanner.nextInt();
+            countryIndex = scan.nextInt();
         }
 
         // Set the selected country based on the user's input

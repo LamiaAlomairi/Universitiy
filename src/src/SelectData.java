@@ -64,7 +64,7 @@ public class SelectData extends MenuItem {
         if (!selectData.isEmpty()) {
             try {
                 // Set up connection to the database
-                String url = "jdbc:sqlserver://localhost:1433;" + "databaseName=myDB;" + "encrypt=true;"
+                String url = "jdbc:sqlserver://localhost:1433;" + "databaseName=" + Main.db_name +";" + "encrypt=true;"
                         + "trustServerCertificate=true";
                 Connection conn = DriverManager.getConnection(url, "sa", "root");
                 Statement stmt = conn.createStatement();

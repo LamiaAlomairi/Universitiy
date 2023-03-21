@@ -71,7 +71,7 @@ public class BackupOfDB extends MenuItem{
             }
             else {
             	try {
-            		String urll = "jdbc:sqlserver://localhost:1433;" + "databaseName = myDB;" +
+            		String urll = "jdbc:sqlserver://localhost:1433;" + "databaseName = " + Main.db_name +";" +
                             "encrypt = true;" + "trustServerCertificate = true";
             		con = DriverManager.getConnection(urll, user, pass);
                     String sql = "INSERT INTO University (state_province, domain, country, web_pages, name, alpha_two_code) VALUES (?, ?, ?, ?, ?, ?)";

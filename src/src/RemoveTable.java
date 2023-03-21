@@ -19,6 +19,7 @@ public class RemoveTable extends MenuItem{
             String sql_Delete = "DROP TABLE University;";
             st.executeUpdate(sql_Delete);
             System.out.println("Table is drop ");
+            con.close();
         } catch (Exception ex) {
             System.err.println(ex);
         }

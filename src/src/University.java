@@ -4,9 +4,9 @@ import java.util.*;
 
 public class University {
 	private String state_province;
-	private String[] domains;
+	private List<String> domains = new ArrayList<>();
 	private String country;
-	private String[] web_pages;
+	private List<String> web_pages = new ArrayList<>();
 	private String name;
 	private String alpha_two_code;
 	
@@ -18,11 +18,11 @@ public class University {
         return state_province;
     }
     
-    public void set_domains(String[] domains) {
+    public void set_domains(List<String> domains) {
         this.domains = domains;
     }
 
-    public String[] get_domains() {
+    public List<String> get_domains() {
         return domains;
     }
     
@@ -34,11 +34,11 @@ public class University {
         return country;
     }
     
-    public void set_web_pages(String[] web_pages) {
+    public void set_web_pages(List<String> web_pages) {
         this.web_pages = web_pages;
     }
 
-    public String[] get_web_pages() {
+    public List<String> get_web_pages() {
         return web_pages;
     }
     
